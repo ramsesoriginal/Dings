@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 222c796e06e90f04db9cb852ba3ae368
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_MeshPart0
+    100004: Cube_MeshPart1
+    100006: Cube_MeshPart2
+    100008: ConnectorCube
+    100010: Corridors
+    100012: LRoom
+    100014: MiddleRoom
+    100016: MiddleStaircaseRoom
+    100018: SmallRoom
+    100020: TopCornerRoom
+    100022: TopJumpRoom
+    100024: TopMiddleRoom
+    100026: Tower
+    400000: //RootNode
+    400002: Cube_MeshPart0
+    400004: Cube_MeshPart1
+    400006: Cube_MeshPart2
+    400008: ConnectorCube
+    400010: Corridors
+    400012: LRoom
+    400014: MiddleRoom
+    400016: MiddleStaircaseRoom
+    400018: SmallRoom
+    400020: TopCornerRoom
+    400022: TopJumpRoom
+    400024: TopMiddleRoom
+    400026: Tower
+    2300000: //RootNode
+    2300002: Cube_MeshPart0
+    2300004: Cube_MeshPart1
+    2300006: Cube_MeshPart2
+    2300008: ConnectorCube
+    2300010: Corridors
+    2300012: LRoom
+    2300014: MiddleRoom
+    2300016: MiddleStaircaseRoom
+    2300018: SmallRoom
+    2300020: TopCornerRoom
+    2300022: TopJumpRoom
+    2300024: TopMiddleRoom
+    2300026: Tower
+    3300000: //RootNode
+    3300002: Cube_MeshPart0
+    3300004: Cube_MeshPart1
+    3300006: Cube_MeshPart2
+    3300008: ConnectorCube
+    3300010: Corridors
+    3300012: LRoom
+    3300014: MiddleRoom
+    3300016: MiddleStaircaseRoom
+    3300018: SmallRoom
+    3300020: TopCornerRoom
+    3300022: TopJumpRoom
+    3300024: TopMiddleRoom
+    3300026: Tower
+    4300000: Cube
+    4300002: Cube_MeshPart0
+    4300004: Cube_MeshPart1
+    4300006: Cube_MeshPart2
+    4300008: MiddleRoom
+    4300010: SmallRoom
+    4300012: LRoom
+    4300014: ConnectorCube
+    4300016: TopJumpRoom
+    4300018: MiddleStaircaseRoom
+    4300020: TopMiddleRoom
+    4300022: Tower
+    4300024: TopCornerRoom
+    4300026: Corridors
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
